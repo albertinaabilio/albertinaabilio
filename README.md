@@ -7,8 +7,6 @@ Looking to work on finance, healthcare and music related projects
 
 > Checkout my projects
 
-_**Always looking to learn new things**_
-
 > 📫 Feel free to email me (mailto:albertinaabilio@outlook.com) or contact me on [LinkedIn](https://www.linkedin.com/in/albertina-abilio/)!
 
 <!---
