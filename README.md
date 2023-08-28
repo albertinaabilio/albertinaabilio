@@ -1,11 +1,9 @@
 Hi, I’m **Albertina** 👋🏾
 
-Currently studying Biomedical Eningeering
-Looking to work on finance, healthcare and music related projects
+💡 Interested in finance, healthcare, music related projects
+> Check out my [Certificates and Certifications](https://github.com/albertinaabilio/certificates-certifications/blob/main/README.md)
 
-> Checkout my [Certificates and Certifications](https://github.com/albertinaabilio/certificates-certifications/blob/main/README.md)
-
-> Checkout my projects
+> Check out my projects
 
 > 📫 Feel free to email me (mailto:albertinaabilio@outlook.com) or contact me on [LinkedIn](https://www.linkedin.com/in/albertina-abilio/)!
 
