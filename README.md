@@ -1,7 +1,6 @@
 Hi, I’m **Albertina** 👋🏾
 
 💡 Interested in finance, healthcare, music related projects
-> Check out my [Certificates and Certifications](https://github.com/albertinaabilio/certificates-certifications/blob/main/README.md)
 
 > Check out my projects
 
